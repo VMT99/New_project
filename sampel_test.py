@@ -1,2 +1,2 @@
 print("Sample Test File")
-print('Hello')
+print('Hello world')
